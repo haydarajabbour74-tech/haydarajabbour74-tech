@@ -1,47 +1,48 @@
-# حيدره غيث جبور | Haydara Ghaith Jabbour
+# Haydara Ghaith Jabbour
 
-مرحباً! أنا **حيدره غيث جبور**، من مواليد **اللاذقية – مشقيتا (17/6/2005)**. أجمع بين الخبرة العملية المبكرة في قطاع المطاعم والعمليات الإدارية والمحاسبية الميدانية وبين الدراسة الأكاديمية المتخصصة في **المحاسبة والاقتصاد**، وأسعى لبناء مسيرة مهنية ناجحة في مجال الإدارة المالية والمحاسبة.
-
----
-
-### نبذة شخصية | Personal Profile
-* **الاسم الكامل:** حيدره غيث جبور (Haydara Ghaith Jabbour)
-* **تاريخ ومكان الولادة:** 17 حزيران / يونيو 2005 — مشقيتا، اللاذقية، سوريا
-* **المجال الأكاديمي والمهني:** المحاسبة والاقتصاد، الإدارة المالية، التدقيق المحاسبي، وإدارة المخزون.
+Hello! I am **Haydara Ghaith Jabbour**, born on **June 17, 2005**, in **Mashqita, Latakia, Syria**. I combine hands-on experience in hospitality operations, accounting data entry, auditing, and inventory management with academic study in **Accounting and Economics**, aiming to build a strong career in financial management and accounting.
 
 ---
 
-### الخبرة العملية | Work Experience
-* **سلسلة مطاعم السلطان (2023 – 2026)**
-  * العمل ضمن فريق سلسلة مطاعم السلطان على مدار ثلاث سنوات، واكتساب خبرة عملية في بيئة عمل سريعة ومنظمة، والالتزام بمعايير الجودة، وخدمة الزبائن، والعمل الجماعي تحت الضغط.
-* **مطاعم متعددة في محافظة اللاذقية**
-  * خبرة ميدانية متنوعة في العمل داخل عدة مطاعم في اللاذقية، مما عزز مهارات التواصل، إدارة الوقت، وفهم أساسيات التشغيل اليومي والرقابة المالية.
-* **الخبرة المحاسبية والمستودعية (Accounting & Inventory Operations)**
-  * إدخال الفواتير ومطابقتها بدقة.
-  * تدقيق البيانات والمعلومات المالية لضمان صحتها.
-  * تنفيذ الجرد العام وجرد المستودعات ومراقبة حركة المواد.
-  * العمل العملي على برنامج المحاسبة **إنفينيتي (Infinity)**.
+### Personal Profile
+* **Full Name:** Haydara Ghaith Jabbour
+* **Date & Place of Birth:** June 17, 2005 — Mashqita, Latakia, Syria
+* **Focus Areas:** Accounting and Economics, Financial Management, Auditing, and Inventory Control
 
 ---
 
-### التعليم والمسار الأكاديمي | Education
-* **كلية البولتكنيك — الجامعة التقنية الجنوبية (Southern Technical University)**
-  * **التخصص:** المحاسبة والاقتصاد (Accounting & Economics)
-  * **الهدف الأكاديمي والمهني:** التعمق في العلوم المحاسبية والاقتصادية، وتطوير مهارات التحليل المالي وإدارة الميزانيات وصولاً إلى منصب مدير مالي (CFO).
+### Work Experience
+* **Al-Sultan Restaurants Chain (2023 – 2026)**
+  * Worked within the Al-Sultan Restaurants team for three years in a fast-paced environment.
+  * Developed strong teamwork, customer service, time management, and reliability under pressure.
+* **Restaurants in Latakia Governorate**
+  * Gained practical operational experience across multiple restaurants in Latakia.
+  * Built adaptability, clear communication, and a solid understanding of daily workflows and cost awareness.
+* **Accounting & Inventory Operations**
+  * Entering and matching invoices accurately.
+  * Auditing data and financial records to ensure accuracy.
+  * Conducting general stocktaking and warehouse inventory counts, and tracking material movement.
+  * Practical experience working with the **Infinity** accounting software.
 
 ---
 
-### المهارات الأساسية | Core Skills
-* **الأنظمة المحاسبية والتقنية:** برنامج **إنفينيتي (Infinity)** للمحاسبة والمستودعات، Microsoft Excel، إدخال وتدقيق البيانات.
-* **المهارات المحاسبية والميدانية:** إدخال الفواتير، التدقيق المالي، الجرد العام، وجرد المستودعات.
-* **المهارات الإدارية والشخصية:** الدقة العالية، إدارة الوقت، العمل ضمن فريق، وتحمل ضغط العمل.
-* **اللغات:** العربية (اللغة الأم)، الإنجليزية (جيد في المصطلحات الأكاديمية والمالية).
+### Education & Career Goals
+* **Polytechnic College — Southern Technical University**
+  * **Field of Study:** Accounting and Economics
+  * **Career Objective:** Build expertise in accounting, financial analysis, and budgeting toward a leadership role in financial management (CFO).
 
 ---
 
-### للتواصل | Contact
+### Core Skills
+* **Accounting & Software Tools:** Infinity accounting software, Microsoft Excel, data entry, and data auditing.
+* **Accounting & Warehouse Skills:** Invoice entry, financial auditing, general stocktaking, and warehouse inventory management.
+* **Workplace & Soft Skills:** Attention to detail, time management, teamwork, and working under pressure.
+* **Languages:** Arabic (Native), English (Good working knowledge of accounting and academic terms).
+
+---
+
+### Contact
 * **GitHub:** [github.com/haydarajabbour74-tech](https://github.com/haydarajabbour74-tech)
-
 <!--
 **haydarajabbour74-tech/haydarajabbour74-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
